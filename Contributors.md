@@ -2,6 +2,7 @@
 
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Md Monayem Islam](https://monayemislam.github.io/)
+- [Priyadharshini S](https://github.com/priyajames99)
 - [CodingSoda](https://github.com/CodingSoda)
 - [Aryan Shinde](https://github.com/AryanShinde)
 - [Tuhin Das](https://github.com/tuhindas30)
